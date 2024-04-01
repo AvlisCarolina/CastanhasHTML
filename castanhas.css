@@ -1,0 +1,46 @@
+.cabecalho{
+    width: 100%;
+    height: 150px;
+    background-color: rgba(126, 40, 18, 0.829);
+    text-align: center
+}
+
+.banner{
+    width: 25%;
+    height: 800px;
+    background-color: rgba(185, 110, 75, 0.979);
+    text-align: center;
+    float: left
+}
+
+.corpo{
+    width: 50%;
+    height: 800px;
+    background-color: rgba(247, 146, 70, 0.45);
+    float: left
+}
+
+.imagem{
+    width: 300px;
+    height: 200px;
+    margin-left: 20px; 
+    margin-top: 20px; 
+    margin-right: 20px; 
+    margin-bottom: 20px;
+    float: left
+}
+
+p {
+    margin-left:20px; 
+    margin-right:20px; 
+    text-align: justify;
+}
+
+iframe {
+    margin-left: 20px; 
+    margin-top: 20px;
+    margin-bottom: 10px; 
+    float: right;
+    width: 360px;
+    height: 215px
+}
